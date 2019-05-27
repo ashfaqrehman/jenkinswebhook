@@ -1,2 +1,2 @@
 # jenkinswebhook
-Testing using local jenkins instance exposed via ngrok.io
+Testing using local jenkins docker image instance exposed via ngrok.io
